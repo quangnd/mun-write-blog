@@ -27,10 +27,10 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Bạn không bao giờ có thể đạt được sự hoàn hảo, nhưng bạn có thể tin vào đường tiệm cận của những gì mình không ngừng hướng tới.📚',
     contacts: {
-      email: '#',
+      email: 'quangnd.edu@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'quangndedu',
+      github: 'quangnd',
       rss: '#',
       vkontakte: '#'
     }

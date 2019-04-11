@@ -7,7 +7,7 @@ slug: "/posts/nguoi-truyen-ky-uc"
 category: "BookReviews"
 tags:
   - "BookReviews"
-description: "Khi hơi thở hóa thinh không là cuốn hồi kí được viết bởi Paul Kalanithi – một bác sĩ phẫu thuật não và cũng là một bệnh nhân ung thư phổi giai đoạn cuối. Paul viết cuốn sách này trong những tháng cuối cùng của cuộc đời anh – khi mà anh đang đối mặt trực tiếp với cái chết."
+description: "Câu chuyện về một thế giới đầy hư ảo, nơi mọi ký ức bị triệt tiêu, mọi suy nghĩ bị giam cầm. Một thế giới nơi tất cả đều nằm trong giới luật cho dù là việc phải ăn hết một bữa điểm tâm. Không có đau khổ nào, tất cả bằng lặng trôi theo một nguyên tắc bất biến."
 ---
 
 💁‍ **Tác Giả**: Lois Lowry - Nhã Nam 06/2014.

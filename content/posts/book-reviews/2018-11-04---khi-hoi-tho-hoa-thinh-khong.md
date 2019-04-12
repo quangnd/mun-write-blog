@@ -1,6 +1,6 @@
 ---
 title: Khi hơi thở hoá thinh không
-date: "2019-04-11T15:40:32.169Z"
+date: "2018-04-11T15:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/khi-hoi-tho-hoa-thinh-khong/"

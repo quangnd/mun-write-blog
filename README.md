@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  A minimal, lightweight and mobile-first starter for creating blogs uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> and <a href="https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank">Lumen</a>.
+  A minimal, lightweight and mobile-first approach for blogging uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> and <a href="https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank">Lumen</a>.
 </h4>
 
 ## Features

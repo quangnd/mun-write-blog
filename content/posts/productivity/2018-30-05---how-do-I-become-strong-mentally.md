@@ -1,6 +1,6 @@
 ---
 title: How do I become strong mentally
-date: "2019-05-30T09:40:32.169Z"
+date: "2018-05-30T09:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/how-do-I-become-strong-mentally"

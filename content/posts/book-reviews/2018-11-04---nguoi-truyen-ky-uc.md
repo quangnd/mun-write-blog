@@ -1,6 +1,6 @@
 ---
 title: Người truyền ký ức
-date: "2019-04-11T20:40:32.169Z"
+date: "2018-04-11T20:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/nguoi-truyen-ky-uc"

@@ -10,20 +10,20 @@ module.exports = {
   googleAnalyticsId: 'UA-130571221-1',
   menu: [
     {
-      label: 'Articles',
+      label: '🔥Articles',
       path: '/'
     },
     {
-      label: 'About me',
+      label: '👨🏻‍💻About me',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: '📇Contact me',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'Quang Nguyen',
+    name: 'Quang Nguyen 🏡',
     photo: '/photo.jpg',
     bio: 'Bạn không bao giờ có thể đạt được sự hoàn hảo, nhưng bạn có thể tin vào đường tiệm cận của những gì mình không ngừng hướng tới.📚',
     contacts: {

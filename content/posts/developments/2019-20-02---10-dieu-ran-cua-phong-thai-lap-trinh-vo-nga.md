@@ -10,29 +10,27 @@ tags:
 description: "Các nguyên tắc vô giá trong lập trình máy tính, từ cuốn sách Tâm lý học lập trình máy tính được viết lại năm 1971!"
 ---
 
-The Ten Commandments of Egoless Programming, as originally established in Jerry Weinberg's book [The Psychology of Computer Programming](https://www.amazon.com/exec/obidos/ASIN/0932633420/codihorr-20):
+Phần dịch dưới đây đã được biên tập lại cho phù hợp với văn phong của người Việt nam. Mình đã cố gắng bám sát "đại ý" của bản gốc tiếng Anh, tuy nhiên nếu đôi chỗ còn rối rắm, mong bạn đọc bỏ qua. Nếu bạn có điều kiện và thời gian, rất mong bạn tìm đọc bản và đây đủ của cuốn sách [The Psychology of Computer Programming](https://www.amazon.com/exec/obidos/ASIN/0932633420/codihorr-20):
 
-1. **Understand and accept that you will make mistakes.** The point is to find them early, before they make it into production. Fortunately, except for the few of us developing rocket guidance software at JPL, mistakes are rarely fatal in our industry, so we can, and should, learn, laugh, and move on.
+1. **Hiểu và chấp nhận việc bạn sẽ mắc (rất nhiều) lỗi.** Điểm cốt lõi là tìm ra lỗi sớm, trước khi đẩy code lên môi trường production. May mắn là trong số chúng ta, ít ai phải phát triển những phần mềm có tính chất quyết định (đôi khi là mạng sống của hàng chục nghìn người) - như một phần mềm dẫn đường cho tên lửa đạn đạo chẳng hạn. Sai lầm nghiêm trọng hiếm khi xảy ra trong ngành công nghiệp phần mềm. Chúng ta nên lạc quan, hỏi hỏi từ sai lầm và cải thiện khả năng dần dần.
 
-2. **You are not your code.** Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered.
+2. **Bạn không phải là code của bạn.** Hãy nhớ rằng tác dụng chủ yếu của việc review code là tìm ra vấn đề, và nếu vấn đề tồn tại, nó sẽ được tìm thấy. Đừng tự trách mình, đừng đổ lỗi cho bản thân khi bạn tìm thấy lỗi. 
 
-3. **No matter how much "karate" you know, someone else will always know more.** Such an individual can teach you some new moves if you ask. Seek and accept input from others, especially when you think it's not needed.
+3. **Một ai đó sẽ luôn luôn biết nhiều (giỏi) hơn bạn, bất kể bạn sở hữu bao nhiêu kiến thức hay bạn có thông minh thế nào đi chăng nữa.** Xin đừng giấu dốt, nếu bạn hỏi, sẽ có người lên tiếng, và họ có thể dạy bạn một vài "chiêu thức" mới. Hãy luôn tìm kiếm và lắng nghe ý kiến từ người khác, đặc biệt là khi bạn nghĩ rằng điều đó là *không cần thiết*.
 
-4. **Don't rewrite code without consultation.** There's a fine line between "fixing code" and "rewriting code." Know the difference, and pursue stylistic changes within the framework of a code review, not as a lone enforcer.
+4. **Đừng viết lại mã nguồn mà không có sự tham vấn.** Có một ranh giới giữa việc "sữa mã nguồn" và "viết lại mã nguồn". Bạn cần nhận biết sự khác biệt, và tuân thủ các qui ước mà team đã thống nhất. Hãy nhớ, bạn là hạt nhân của một tập thể, bạn không hành động đơn độc.
 
-5. **Treat people who know less than you with respect, deference, and patience.** Nontechnical people who deal with developers on a regular basis almost universally hold the opinion that we are prima donnas at best and crybabies at worst. Don't reinforce this stereotype with anger and impatience.
+5. **Hãy đối xử với những người hiểu biết ít hơn bạn bằng sự tôn trọng, chăm chú lắng nghe và kiên nhẫn.** Những người không làm trong ngành mà phải thường xuyên làm việc với các lập trình viên hầu như đều có quan điểm rằng chúng ta luôn tự to cho mình là cao siêu với những vấn đề chúng ta làm tốt nhất, nhưng lại như một "đứa trẻ hay khóc nhè" khi gặp những tình huống tệ hại.
 
-6. **The only constant in the world is change.** Be open to it and accept it with a smile. Look at each change to your requirements, platform, or tool as a new challenge, not as some serious inconvenience to be fought.
+6. **Hằng số duy nhất trên thế giới là sự thay đổi.** Hãy cởi mở với sự thay đổi, và chấp nhận nó với (ít nhất) một nụ cười. Hãy xem mỗi thay đổi với các yêu cầu, nền tảng hoặc công cụ của bạn như một thách thức mới. Đừng nghiêm trọng hóa, đừng quá gay gắt!
 
-7. **The only true authority stems from knowledge, not from position.** Knowledge engenders authority, and authority engenders respect – so if you want respect in an egoless environment, cultivate knowledge.
+7. **Quyền lực thực sự duy nhất bắt nguồn từ kiến thức, không phải từ cương vị.** Tri thức mang lại uy quyền, và uy quyền mang lại sự kính trọng - vì vậy, nếu bạn muốn tự tôn trọng trong một môi trường "vô ngã" (không đề cao cái tôi), hãy thường xuyên trau dồi kiến thức.
 
-8. **Fight for what you believe, but gracefully accept defeat.** Understand that sometimes your ideas will be overruled. Even if you do turn out to be right, don't take revenge or say, "I told you so" more than a few times at most, and don't make your dearly departed idea a martyr or rallying cry.
+8. **Chiến đấu cho những gì bạn tin tưởng, biết rằng thất bại là một bài học, và chấp nhận đào một cái hố khác.** Bạn cần hiểu rằng đôi khi ý kiến của bạn sẽ bị đánh giá không như cách bạn đã nghĩ hoặc hình dung. Ngay cả khi ý kiến của bạn hóa ra là chính xác, đừng giữ trong mình ý nghĩ phục thù hay lặp đi lặp lại "Tôi đã nói rồi mà". Quan trọng hơn, đừng biến ý tưởng thân yêu của bạn thành một lời khóc than kể cả.
 
-9. **Don't be "the guy in the room."** Don't be the guy coding in the dark office emerging only to buy cola. The guy in the room is out of touch, out of sight, and out of control and has no place in an open, collaborative environment.
+9. **Đừng trở thành "chàng trai lập dị trong phòng".** Anh chàng có lối sống lập dị, không có nguyên tắc thường mất liên lạc, mất kiểm soát và không có chỗ trong môi trường hợp tác cởi mở.
 
-10. **Critique code instead of people – be kind to the coder, not to the code.** As much as possible, make all of your comments positive and oriented to improving the code. Relate comments to local standards, program specs, increased performance, etc.
-
-The human principles of software are truly timeless; The Psychology of Computer Programming was written way back in 1971!
+10. **Đánh giá/phê bình mã nguồn (sự việc), chứ không phải con người.** Hãy trở thành một người có lòng trắc ẩn, đặt mình vào địa vị của người viết code để hiểu. Tất cả các quan điểm của bạn nên tích cực, và hướng về mục tiêu cải thiện mã nguồn. Các ý kiến bổ sung, góp ý cũng cần có liên hệ với các tiêu chuẩn chung, các thông số kỹ thuật của chương trường, làm gia tăng hiệu suất...
 
 --
 

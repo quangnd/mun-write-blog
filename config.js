@@ -14,7 +14,11 @@ module.exports = {
       path: '/'
     },
     {
-      label: '👨🏻‍💻About me',
+      label: '👨🏻‍💻My works',
+      path: '/pages/myworks'
+    },
+    {
+      label: '👨🏻‍About me',
       path: '/pages/about'
     },
     {
@@ -28,11 +32,9 @@ module.exports = {
     bio: 'Bạn không bao giờ có thể đạt được sự hoàn hảo, nhưng bạn có thể tin vào đường tiệm cận của những gì mình không ngừng hướng tới.📚',
     contacts: {
       email: 'quangnd.edu@gmail.com',
-      telegram: '#',
       twitter: 'quangndedu',
       github: 'quangnd',
       rss: '#',
-      vkontakte: '#'
     }
   }
 };

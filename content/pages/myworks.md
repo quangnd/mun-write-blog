@@ -24,3 +24,4 @@ template: "page"
 1. Countdown Timer [See on Codepen](https://codepen.io/quangnd/full/xBdrjQ)
 2. Tic tac toe game [See on Codepen](https://codepen.io/quangnd/full/XXRNmB/)
 3. Simon game [See on Codepen](https://codepen.io/quangnd/full/dGzGNV/)
+4. Data structures and Algorithms 🔥 [Github](https://github.com/quangnd/js-datastructures-algorithm)

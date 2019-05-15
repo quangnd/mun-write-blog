@@ -7,6 +7,10 @@
   A minimal, lightweight and mobile-first approach for blogging uses <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> and <a href="https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank">Lumen</a>.
 </h4>
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aad164a8-bb19-4b8c-98e5-0cbd9c8969b7/deploy-status)](https://app.netlify.com/sites/youthful-darwin-c0eb11/deploys)
+
+
 ## Features
 + [Lost Grid](http://lostgrid.org).
 + [Modern font stack](https://bitsofco.de/the-new-system-font-stack).

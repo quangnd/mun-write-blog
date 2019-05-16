@@ -19,6 +19,7 @@ template: "page"
 3. Jokes machine [Demo](https://festive-engelbart-0d235c.netlify.com/) | [Github](https://github.com/quangnd/jokes-machine-reactjs)
 4. Playing with new Hooks API [Demo](https://modest-snyder-cafd27.netlify.com) - [Github](https://github.com/quangnd/react-hooks-playground)
 5. Todo app with HOOKS API [Demo](https://keen-lewin-19c820.netlify.com/) - [Github](https://github.com/quangnd/todo-app-react-hooks)
+6. Login form with React Contexts for theme and multi-language [Demo](https://romantic-einstein-bdd4e0.netlify.com/) - [Github](https://github.com/quangnd/login-form-multilang-with-context) 
 
 ### 🛀Vanilla Javascript
 

@@ -65,7 +65,7 @@ Nếu công ty/nhóm của bạn đang chạy theo mô hình SCRUM, bạn cũng 
 
 Nếu bạn muốn tìm hiểu sâu hơn về tác dụng của Checklist, hãy tìm đọc một cuốn sách rất tuyệt vời của một bác sĩ *phẫu thuật* [Checklist manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)
 
-Bản dịch Tiếng Viẹt [Phút dừng lại của người thông minh](https://tiki.vn/phut-dung-lai-cua-nguoi-thong-minh-p343322.html)
+Bản dịch Tiếng Việt [Phút dừng lại của người thông minh](https://tiki.vn/phut-dung-lai-cua-nguoi-thong-minh-p343322.html)
 
 Nếu bạn cần bản ebook, go to [contact me](https://quangnd.com/pages/contacts)
 

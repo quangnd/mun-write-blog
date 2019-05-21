@@ -22,32 +22,32 @@ Dưới đây là một checklist ví dụ, tóm gọn cho product team trong l�
 
 #### DESIGN AND DOCUMENTATION
 
-1. Database Design document has been created
-2. Project Architecture document has been created
-3. API Design document has been created
-4. Design Note has been created for complicated User Story/Function
-5. DB Tracking changes
-6. Go live (Release product) checklist
+1. Database Design document has been created.
+2. Project Architecture document has been created.
+3. API Design document has been created.
+4. Design Note has been created for complicated User Story/Function.
+5. DB Tracking changes.
+6. Go live (Release product) checklist.
 
 #### DEVELOPMENT
 
-1. Implement Git workflow
-2. Implement Coding Convention
-3. Implement Code Review
-4. Implement Unit Test
-5. Implement Auto Build/Deploy
-6. Separate development, QA, staging and production environments
-7. Implement Server Logging & Monitoring
-8. Prepare Backup & Rollback scenario 
-9.Implement Performance/Load test
+1. Implement Git workflow.
+2. Implement Coding Convention.
+3. Implement Code Review.
+4. Implement Unit Test (frontend & backend).
+5. Implement Auto Build/Deploy.
+6. Separate development, QA, staging and production environments.
+7. Implement Server Logging & Monitoring.
+8. Prepare Backup & Rollback scenario.
+9. Implement Performance/Load test.
 
 #### TESTING & QUALITY ASSURANCE
 
-1. Create Testing Plan
-2. Create Detailed Test cases
-3. Create Test Result Report/Evidence
-4. Create Leakage Test report (after test on Production)
-5. Send Summary Test Report for PO, PL
+1. Create Testing Plan.
+2. Create Detailed Test cases.
+3. Create Test Result Report/Evidence.
+4. Create Leakage Test report (after test on Production).
+5. Send Summary Test Report for PO, PL.
 
 --
 

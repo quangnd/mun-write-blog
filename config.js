@@ -27,9 +27,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Quang Nguyen 🏡',
+    name: 'Mun\'s space ☔️',
     photo: '/photo.jpg',
-    bio: 'Bạn không bao giờ có thể đạt được sự hoàn hảo, nhưng bạn có thể tin vào đường tiệm cận của những gì mình không ngừng hướng tới.📚',
+    bio: 'I know nothing!',
     contacts: {
       email: 'quangnd.edu@gmail.com',
       twitter: 'quangndedu',

@@ -61,7 +61,7 @@ Mỗi ngày, hãy làm việc khó nhất đầu tiên, khi đầu óc bạn cò
 
 Hình dung về hoàn cảnh của bạn và so sánh tương phản với ước mơ bạn muốn đạt được nhờ học hành. Hãy đặt một bức trang hay lời nói tại bàn làm việc để nhắc nhở bản thân về ước mơ đó. Nhìn vào nó mỗi khi bạn thấy động lực của mình sa sút. Việc làm này sẽ đem lại nhiều điều tốt đẹp cho cả bạn và những người bạn yêu thương.
 
-*Bài tiếp: 10 QUY TẮC HỌC DỞ* 😌
+*Bài tiếp: [10 quy tắc học dở](/posts/10-quy-tac-hoc-do)* 😌
 --
 
 
